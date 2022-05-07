@@ -1,0 +1,8 @@
+{
+  "name": "bls-util",
+  "version": "1.0.0",
+  "description": "Box3-Local-Scripting browser utils",
+  "main": "index.js",
+  "author": "bcmray_crazy",
+  "license": "MIT"
+}
